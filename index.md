@@ -5,18 +5,22 @@
 ### Projects 
 
 [Headache Tracking](https://www.kaggle.com/code/elliecd/headache-tracking)
+
 <img src="images/headaches-per-month.png?raw=true"/>
 
 ---
 [Wedding Invitations](/wedding-invitations)
+
 <img src="images/invitation-details.jpg?raw=true"/>
 
 ---
 [Project 3 Title](/sample_page)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
