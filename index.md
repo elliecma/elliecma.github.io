@@ -1,37 +1,28 @@
 ## Portfolio
 
----
-
-### Projects 
+### Data Projects 
 
 [Headache Tracking](https://www.kaggle.com/code/elliecd/headache-tracking)
 
 <img src="images/headaches-per-month.png?raw=true"/>
 
 ---
-[Wedding Invitations](/wedding-invitations)
+[Popular Names in the US](https://www.kaggle.com/code/elliecd/usa-names)
+
+<img src="images/popular-names-by-state-2021.png?raw=true"/>
+
+---
+[Spotify Usage](/sample_page)
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Other Projects
+
+[Wedding Invitations (Pitch Deck)](/wedding-invitations)
 
 <img src="images/invitation-details.jpg?raw=true"/>
-
----
-[Project 3 Title](/sample_page)
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
