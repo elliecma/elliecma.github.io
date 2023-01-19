@@ -7,14 +7,10 @@
 <img src="images/headaches-per-month.png?raw=true"/>
 
 ---
+
 [Popular Names in the US](https://www.kaggle.com/code/elliecd/usa-names)
 
 <img src="images/popular-names-by-state-2021.png?raw=true"/>
-
----
-[Spotify Usage](/sample_page)
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
