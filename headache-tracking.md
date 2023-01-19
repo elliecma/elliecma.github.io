@@ -8,5 +8,5 @@ I took a break from work in February 2022 to focus on migraine treatment, so in 
 
 But... what does "gotten better" mean?
 
-Please continue on to my Kaggle notebook to see more!
+Please continue on to my Kaggle notebook to see more:
 [Headache Tracking](https://www.kaggle.com/code/elliecd/headache-tracking)
