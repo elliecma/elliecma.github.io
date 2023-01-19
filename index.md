@@ -2,13 +2,13 @@
 
 ### Data Projects 
 
-[Headache Tracking](https://www.kaggle.com/code/elliecd/headache-tracking)
+[Headache Tracking](headache-tracking)
 
 <img src="images/headaches-per-month.png?raw=true"/>
 
 ---
 
-[Popular Names in the US](https://www.kaggle.com/code/elliecd/usa-names)
+[Popular Names in the US](popular-names)
 
 <img src="images/popular-names-by-state-2021.png?raw=true"/>
 
